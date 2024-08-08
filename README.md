@@ -76,6 +76,8 @@ Starts a job in the specified Domino project. The function can target a specific
 
 - Ensure that your environment variables are set correctly for the script to interact with the Domino API.
 - Modify the `file_path_and_name` and other parameters as needed for your specific use case.
+- Use at your own risk - this does start jobs or runs in Domino which can incur fees.
+- No guarantees, this is a combination of solutions provided to run from a branch, using the REST API
 
 ## License
 
