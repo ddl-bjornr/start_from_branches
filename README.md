@@ -81,4 +81,4 @@ Starts a job in the specified Domino project. The function can target a specific
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. It is provided as an example only, please use at your own risk.
